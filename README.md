@@ -1,3 +1,3 @@
 # vitejs-vite-zfeyzg
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-zfeyzg)
+Studying the language and experimenting with the functions
